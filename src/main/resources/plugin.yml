@@ -1,0 +1,10 @@
+name: SkillTree
+version: '${project.version}'
+main: me.shadow_warrior_.skilltree.SkillTree
+authors: [ shadow_warrior_ ]
+description: Skill tree
+commands:
+  block:
+    usage: <command>
+  setscore:
+    usage: <command>
